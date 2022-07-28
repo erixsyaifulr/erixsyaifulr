@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erixsyaifulr
-- 👀 I’m interested in mobile and web programming with Flutter , Vue js , Laravel , Node Js
+- 👀 I’m interested in mobile (Flutter) and web programming with CodeIgniter, Laravel, Vue js , Node Js
 - 🌱 I’m currently working as front end mobile developer 
 - 📫 You can reach me on email syaifulerix@gmail.com or via my company website https://ptkasuari.com
 
